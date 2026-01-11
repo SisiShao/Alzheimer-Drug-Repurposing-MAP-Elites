@@ -216,7 +216,7 @@ If you use this repository, its methodology, or derived software artifacts, plea
 A preprint or published version will be linked here upon acceptance.
 
 ```bibtex
-@unpublished{shao2026biodiversity,
+@unpublished{shao2026qualitydiversity,
   title   = {A Biology-Based Quality-Diversity Algorithm for Drug Repurposing in Alzheimer’s Disease Using Automated Machine Learning},
   author  = {Shao, Sisi and Ribeiro, Pedro H. and Orlenko, Alexander and others},
   note    = {Manuscript under review},
